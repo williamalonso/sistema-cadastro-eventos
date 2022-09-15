@@ -46,6 +46,8 @@ O sistema foi desenvolvido usando o Eclipse IDE for Enterprise Java Developers v
 
 A versão do SpringBoot usada é a `2.6.10`.
 
+A versão do Mysql usada é a `8.0.30`.
+
 Caso queira, clone ou faça o downlod desse repositório:
 
 ```
@@ -53,6 +55,6 @@ Caso queira, clone ou faça o downlod desse repositório:
 $ git clone git@github.com:williamalonso/sistema-cadastro-eventos.git
 ```
 
-Nota: se vc clonar o repositório para a pasta `D:\workspace\Project_Name` então quando abrir o Eclipe selecione a pasta `D:\workspace` para evitar conflito no arquivo `pom.xml`
+Nota: se vc clonar o repositório para a pasta `D:\workspace\Project_Name` então quando abrir o Eclipe selecione a pasta `D:\workspace` para evitar conflito no arquivo `pom.xml.
 
 <h3 align="center">William Alonso</h3>
