@@ -55,6 +55,14 @@ Caso queira, clone ou faça o downlod desse repositório:
 $ git clone git@github.com:williamalonso/sistema-cadastro-eventos.git
 ```
 
-Nota: se vc clonar o repositório para a pasta `D:\workspace\Project_Name` então quando abrir o Eclipe selecione a pasta `D:\workspace` para evitar conflito no arquivo `pom.xml.
+Para importar o projeto no Maven, basta ir em "file -> import -> maven -> existing maven project" e em "root directory" selecionar a pasta do projeto e clicar em "finish".
+
+Nota: se vc clonar o repositório para a pasta `D:\workspace\Project_Name` então quando abrir o Eclipe selecione a pasta `D:\workspace` para evitar conflito no arquivo `pom.xml` quando importar o projeto no Maven.
+
+Dentro do pacote `com.eventoapp.eventoapp` existe o arquivo "DataConfiguration.java". Nele você deve colocar suas credenciais do seu banco Mysql, como "username" e "password".
+
+Para rodar a aplicação, clique com o botão direto em cima do nome do projeto, depois selecione "run as -> java application".
+
+Se for solicitado para selecionar a aplicação java, procure por `EventoappApplication - com.eventoapp.eventoapp`.
 
 <h3 align="center">William Alonso</h3>
