@@ -1,0 +1,58 @@
+<h1 align="center">
+    Sistema de Cadastro de Eventos
+</h1>
+
+<div align="center">
+  <img src="https://github.com/williamalonso/sistema-cadastro-eventos/blob/master/img/home.png" alt"Home Page" title="Sistema de cadastro de Eventos" width="600" />
+  
+
+---
+
+</div>
+
+
+
+### 🤔 Sobre o Sistema?
+
+É um pequeno sistema feito em SpringBoot onde o usuário pode cadastrar e deletar eventos, como um casamento por exemplo. O usuário também pode adicionar e deletar convidados para seu evento.
+
+---
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Java](https://www.oracle.com/java/)
+- [MySQL](https://www.mysql.com/)
+
+---
+
+### ✨ Sobre a construção do projeto:
+
+- A página inicial lista seus eventos;
+- É possível cadastrar novos eventos;
+- É possível deletar eventos;
+- Ao clicar no nome do evento é exibida uma página com os convidados;
+- É possível adicionar e deletar convidados;
+
+
+---
+
+## 🙅 Instalações e usos
+
+O sistema foi desenvolvido usando o Eclipse IDE for Enterprise Java Developers versão `2020-03 (4.15.0)` e o Java versão `1.8.0_333`.
+
+A versão do SpringBoot usada é a `2.6.10`.
+
+Para acessar o site [clique aqui](https://sistema-cadastro-reunioes.vercel.app/)
+
+Caso queira, clone ou faça o downlod desse repositório:
+
+```
+# Clone o repositório
+$ git clone git@github.com:williamalonso/sistema-cadastro-eventos.git
+```
+
+<h3 align="center">William Alonso</h3>
